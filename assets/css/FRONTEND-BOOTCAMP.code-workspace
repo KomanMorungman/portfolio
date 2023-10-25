@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../FRONTEND-BOOTCAMP"
+		},
+		{
+			"path": "../../../p1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FRONTEND-BOOTCAMP"
+	}
+}
